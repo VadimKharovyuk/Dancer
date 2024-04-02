@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DancerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DancerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DancerApplication.class, args);
+    }
 
 }
